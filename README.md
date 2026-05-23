@@ -165,15 +165,7 @@ gunicorn app:app
 
 ---
 
-## Possible Improvements
 
-- Add NVD, ExploitDB, CISA KEV as sources
-- Replace NLTK with spaCy or an LLM/RAG pipeline for better summaries
-- Migrate from SQLite to PostgreSQL for multi-instance deployments
-- Replace BeautifulSoup with Scrapy for more robust scraping
-- Real-time dashboard with WebSockets
-- CSV/Excel export
-- ML-based severity filtering
 
 ---
 
